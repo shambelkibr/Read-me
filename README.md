@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Shanbel+Kibre;Full-Stack+Developer;MERN+Stack+Engineer;Building+Modern+Web+Applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Shanbel+Kibre;Full-Stack+Developer;software+Engineer;and+Cyber+security+Student+At+GTST;Building+Modern+Web+Applications"/>
 </h1>
 
 <p align="center">
