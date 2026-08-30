@@ -90,7 +90,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,ts,html,css,js,react,python,java,nodejs,express,git,github,vscode,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=ts,html,css,js,react,cpp,python,java,nodejs,express,git,github,vscode,mysql,postgres" />
 </p>
 
 
