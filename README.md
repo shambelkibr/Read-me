@@ -30,13 +30,10 @@
 
 
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,html,css,js,react,nodejs,express,mysql,postgres,cpp,python,java,php,flutter,dart,docker,jenkins,kubernetes,linux,nginx&perline=13" />
+<p >
+  <img src="https://skillicons.dev/icons?i=ts,html,css,js,react,nodejs,express,mysql,postgres,cpp,python,java,php,dart,flutter,docker,jenkins,kubernetes,linux,nginx&perline=13" />
 </p>
 
-<p align="center">
-  <strong>Development  Mobile   DevOps  Collaboration</strong>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Methodology-Kanban-blue?style=for-the-badge" />
@@ -54,21 +51,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shanbelkibre&theme=tokyonight" width="32%" />
 </p>
 
-
-
-## 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/shabel1234?theme=dark&font=Baloo&ext=heatmap)
-
-🔗 https://leetcode.com/u/shabel1234/
-
-
-## 🛰 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanbelkibre&theme=tokyo-night&hide_border=true&t=1"/>
-</div>
 
 
 ## 🤝 Connect With Me
