@@ -16,7 +16,7 @@
 - 🌍 Ethiopia
 - 🎓 Software Engineer 
 - 💼 Full-Stack Developer  
-- 🔥 MERN Stack & Backend Scaling  
+
 ---
 ##  Tech Stack (Modern Card Layout)
 
